@@ -2,5 +2,7 @@
   "keycct": 1,
   "keycctmessage": "Houve um erro",
   "keycct13": 1,
-  "keycct17": 1
+  "keycct13message": "Houve um erro 13",
+  "keycct17": 1,
+  "keycct17message": "Houve um erro 17"
 }
