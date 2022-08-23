@@ -10,5 +10,7 @@
   "keyconti": 1,
   "keycontimessage": "",
   "keycctreg": 1,
-  "keycctregmessage": ""
+  "keycctregmessage": "",
+  "keycctatualiza": 1,
+  "keycctatualizamessage": ""
 }
